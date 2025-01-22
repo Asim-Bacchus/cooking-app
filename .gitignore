@@ -169,3 +169,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Node.js (React, Next.js)
+node_modules/
+.env.local
+.next/
+out/
+
+# General OS & Editor Files
+.DS_Store  # macOS
+.idea/  # JetBrains IDEs
+.vscode/  # VS Code settings
