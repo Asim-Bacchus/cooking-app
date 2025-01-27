@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from gpt_handler import get_meal_recommendations
+from handler import get_meal_recommendations
 
 app = Flask(__name__)
 
